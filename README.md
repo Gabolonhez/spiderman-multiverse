@@ -1,5 +1,7 @@
 # Multiverso Spiderman
 
+![image](https://github.com/user-attachments/assets/3de9938d-6160-4286-8704-b0a1644eb905)
+
 ## 📑 Descrição
 
 Site desenvolvido durante um curso sobre o universo do homem aranha seguindo o modelo do Figma, demonstrando quais foram os 3 atores e informando sobre cada filme existente.   
