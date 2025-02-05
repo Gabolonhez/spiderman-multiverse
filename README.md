@@ -13,12 +13,9 @@ Site desenvolvido durante um curso sobre o universo do homem aranha seguindo o m
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver a as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
-
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica do aplicativo.
-
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 <!--## 🌐 Site do projeto
 
