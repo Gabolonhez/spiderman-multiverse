@@ -4,7 +4,7 @@
 
 ## 📑 Descrição
 
-Site desenvolvido durante um curso sobre o universo do homem aranha seguindo o modelo do Figma, demonstrando quais foram os 3 atores e informando sobre cada filme existente.   
+Site sobre o universo do homem aranha, demonstrando quais foram os 3 atores e informando sobre cada filme existente.   
 
 <!-- ## 🎯 Funcionalidades
 
